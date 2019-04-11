@@ -9,9 +9,9 @@ brython中文文档
 
 + [介绍](https://github.com/SHI1992/brython-document/blob/master/%E4%BB%8B%E7%BB%8D.md)
 + [安装](https://github.com/SHI1992/brython-document/blob/master/%E5%AE%89%E8%A3%85.md)
++ [常见问题](https://github.com/SHI1992/brython-document/blob/master/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
 
 
-* [常见问题]
 * 语法、关键词和内置函数
 * 标准分布
 * 导入实现
